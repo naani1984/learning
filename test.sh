@@ -1,1 +1,1 @@
-echo "testing from git"
+echo "testing from git."
