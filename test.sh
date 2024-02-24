@@ -1,1 +1,1 @@
-echo "testing from git. logix"
+echo "testing from git. logix testug"
